@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hellooosss
-=======
-kkkHellooo
->>>>>>> 6f746b1c7238bde21362b6fb551acf0fab26cc73
+kkkHellooosss
 sdfghjkl
 
 changes
